@@ -3,7 +3,7 @@ import { ActionButtons } from "./ActionButtons";
 import { formatNumber } from "./Utils";
 
 
-const dollar = ("$");
+
 
 export const Account = (props) => {
     
